@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import "./App.css";
 import store from "./store";
 import { Provider } from "react-redux";
@@ -16,7 +16,7 @@ import PostPage from "./pages/PostPage";
 import CreateAccount from "./pages/CreateAccount";
 import NotFoundPage from "./pages/NotFoundPage";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <RootLayout />,
