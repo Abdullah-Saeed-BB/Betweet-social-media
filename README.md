@@ -1,24 +1,23 @@
-Tasks:
-[1] إضافة صفحة الإشعارات
-[1] إضافة صفحة البروفايل
-[1] إضافة هيدر للصفحة (تحتوي على الحساب - تسجيل دخول - تسجيل خروج)
-[1] الصورة الحساب الخاصة للشخص تتغير حسب صورة حساب الشخص
-[1] حل مشكلة الإعجابات, غير ثابتة
-[1] إضافة صفحة لإنشاء حساب
-[1] إضافة شعار للموقع
-[1] إضافة ميزة إظهار وإخفاء كلمة السر
-[1] إضافة الوقت للبوست
-[1] عمل نظام للفولو
-[1] أستعمل البيانات حقت الأحداثيات واظهر الخريطة
-[] إضافة مستطيل يظهر بعض الحسابات المهتم بها
-[غير مناسبة] استعمل الـLoaders في الـ React Route
-[1] تضبيط زر تسجيل الخروج
-[1] تأثير يظهر عند العمل على إعجاب
-[1] وضع حد لي عدد الحروف عند إنشاء منشور
-[1] ان بحث خاص للبحث عن بوستات
-[1] خيار "تذكرني" عند التسجيل
-[1] صفحة تظهر لما تخش صفحة غير موجودة في الموقع
-[1] الموقع يكون مناسب للهاتف
-[] واسم الموقع وضع ايقونة لي الموقع
+Developed a Social media web application called Betweet built by React.<br/>
+[Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/)
 
-[1] حل مشكلة لما تروح عن طريق الريفريش
+## Features
+ - Login / Logout.
+ - *Remember me* option.
+ - Create an account.
+ - Profile Page.
+ - Notification and friends page.
+ - Make likes and add comments.
+ - Followers system.
+ - Create a new post.
+ - Search bar for posts.
+ - Dark and Light theme.
+ - 404 page.
+ - Responsive design.
+## Technologies:
+<img src="https://img.shields.io/badge/Redux -764abc?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="Redux logo"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="Tailwind css logo"/>
+<img src="https://img.shields.io/badge/React Router-da3434?logo=reactrouter&logoColor=white&style=for-the-badge" height="30" alt="React Router logo"/>
+<img src="https://img.shields.io/badge/Final Form-da3434?logo=finalformreact&logoColor=white&style=for-the-badge" height="30" alt="React Final Form logo"/>
+
+Installation guide:
