@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import PostUser from "../components/Post/PostUser";
 import PostData from "../components/Post/PostData";
 import { useDispatch, useSelector } from "react-redux";

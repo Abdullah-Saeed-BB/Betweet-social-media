@@ -1,4 +1,4 @@
-import { Link, Navigate, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { Form, Field } from "react-final-form";
 import { FORM_ERROR } from "final-form";
 import { useDispatch, useSelector } from "react-redux";
@@ -18,7 +18,7 @@ export default function Login() {
   useEffect(() => {
     dispatch(userActions.checkLogin());
     if (isLogin) navigate("/");
-  }, [isLogin]);
+  }, [isLogin, dispatch, navigate]);
 
   const required = (value) => (value ? undefined : "Fill the field");
 
