@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Betweet-social-media/static/css/main.89875bca.css",
+    "main.js": "/Betweet-social-media/static/js/main.dd31f707.js",
+    "static/js/453.ad12f774.chunk.js": "/Betweet-social-media/static/js/453.ad12f774.chunk.js",
+    "static/media/social_media_logo_dark.png": "/Betweet-social-media/static/media/social_media_logo_dark.07cad44570c0f7b43b80.png",
+    "static/media/social_media_logo_light.png": "/Betweet-social-media/static/media/social_media_logo_light.0f17b2c1a4b04da77da9.png",
+    "index.html": "/Betweet-social-media/index.html",
+    "main.89875bca.css.map": "/Betweet-social-media/static/css/main.89875bca.css.map",
+    "main.dd31f707.js.map": "/Betweet-social-media/static/js/main.dd31f707.js.map",
+    "453.ad12f774.chunk.js.map": "/Betweet-social-media/static/js/453.ad12f774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89875bca.css",
+    "static/js/main.dd31f707.js"
+  ]
+}
