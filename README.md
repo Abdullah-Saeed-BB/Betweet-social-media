@@ -1,4 +1,4 @@
-Developed a Social media web application called Betweet built by React.<br/>
+Developed a Social media web application called Betweet built by React, I used JSONplaceholder API to get **users**, **posts**, and **comments** data.<br/>
 [Live demo](https://abdullah-saeed-bb.github.io/Betweet-social-media/#/)
 
 ## Features
